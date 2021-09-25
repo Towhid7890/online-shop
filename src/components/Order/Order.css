@@ -1,0 +1,9 @@
+.order-container{
+    display: flex;
+}
+.review-container{
+    width: 50%;
+    margin-right: 10px;
+    margin-left: 10px;
+    border-right: 1px solid lightgray;
+}
